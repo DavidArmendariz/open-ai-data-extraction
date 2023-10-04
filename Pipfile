@@ -5,8 +5,14 @@ name = "pypi"
 
 [packages]
 transformers = "*"
+striprtf = "*"
+openai = "*"
+python-dotenv = "*"
+pandas = "*"
+openpyxl = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
