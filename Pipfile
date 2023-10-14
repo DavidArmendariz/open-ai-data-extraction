@@ -10,9 +10,9 @@ openai = "*"
 python-dotenv = "*"
 pandas = "*"
 openpyxl = "*"
+jupyter = "*"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.11"
